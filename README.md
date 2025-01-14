@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m excited to share my journey in data science 
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/joudisinjab)  
+- 💼 [LinkedIn](www.linkedin.com/in/joudisinjab/)  
 - 📧 [joudisinjab@gmail.com](mailto:joudisinjab@gmail.com)  
 
 ---
